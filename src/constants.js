@@ -122,7 +122,7 @@ export const projects = [
         title: "Weather-App",
         description: "Weather App is a simple and intuitive web application that allows users to check real-time weather conditions for any city. It displays temperature, humidity, and weather descriptions, offering a clean and responsive user interface.",
         image: weather_app,
-        tags: ["HTML", "CSS", "Javascript", "ReactJS", "Vite"],
+        tags: ["HTML", "CSS", "Javascript", "ReactJS","API", "Vite"],
         github: "https://github.com/Richagogde03/Weather_App/tree/main/weather-app",
         liveLink: "https://richagogde03.github.io/Weather_App/"
     },
