@@ -171,7 +171,7 @@ export const education = [
         school: "Shri K.B. Patel Gujrati Girls H.Sc. School, Indore",
         date: "April 2019 - March 2020",
         grade: "79.6%",
-        desc: "I completed my class 12 education from Gujrati Girls school, Indore. Where i studied physics, chemitry and Mathematics(PCM) with Computer Science.",
+        desc: "I completed my class 12 education from Gujrati Girls school, Indore. Where i studied physics, chemistry and mathematics(PCM) with Computer Science.",
         degree: "XII - PCM"
     },
     {
@@ -180,7 +180,7 @@ export const education = [
         school: "Shri K.B. Patel Gujrati Girls H.Sc. School, Indore",
         date: "Apr 2017 - March 2018",
         grade: "81.8%",
-        desc: "I completed my class 10 education from Gujrati Girls school",
+        desc: "I completed my class 10 education from Gujrati Girls school, indore",
         degree: "X"
     }
 ]
